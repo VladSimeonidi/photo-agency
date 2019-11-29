@@ -1,0 +1,1 @@
+$('.header').parallax({imageSrc: 'js/images/photoset.jpg'});

@@ -1,0 +1,5 @@
+node_modules/
+*.psd
+package.json
+package-lock.json
+webpack.config.js
